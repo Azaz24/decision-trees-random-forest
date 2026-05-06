@@ -35,9 +35,8 @@ Random Forest performed best due to higher test accuracy and better generalisati
 ## ▶️ How to Run
 
 ```
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn
 python assignment.py
-
 ```
 
 ```
