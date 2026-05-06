@@ -40,12 +40,14 @@ python assignment.py
 
 ```
 
+```
 📁 Project Structure
 decision-trees-random-forest/
 │
 ├── assignment.py
 ├── README.md
 └── requirements.txt
+```
 
 ## 📌 Dataset
 This dataset is synthetically generated using NumPy to simulate customer churn behavior based on features like tenure, monthly charges, services, and support calls.
